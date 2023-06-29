@@ -1,4 +1,4 @@
-const skill = require('../models/skill');
+const skill = require('../models/skills');
 
 module.exports = {
     index
